@@ -6,7 +6,7 @@ Bachelor's theses completed at Aalto University
 This repo contains my bachelor's theses completed at Aalto University
 
 # Bsc(tech): HTTP/3 Performance Analysis
-- Literature review and analysis
+- Literature review and analysis of the performance of HTTP/3 compared to earilier HTTP versions
 - Grade 5/5 (maximum grade)
 
 # BSc business: The Effects of the EU AI Act on Recruitment Processes
